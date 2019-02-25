@@ -5,7 +5,7 @@ namespace netLoader
     [Flags]
     public enum netLoaderState
     {
-        None = 1,
+        None = 0,
         Loading = 1 << 0,
         Starting = 1 << 1,
         Running = 1 << 2,
