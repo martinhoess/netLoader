@@ -1,5 +1,5 @@
 # netLoader
-C# implementation of the android loaders, for better task handling
+C# implementation/port of the [Android loaders](https://developer.android.com/reference/android/support/v4/app/LoaderManager.html), for better task/async handling
 
 Example
 ------------
