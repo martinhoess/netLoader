@@ -191,19 +191,3 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 /.gitconfig
-
-
-# XLL Excel AddIn File
-*.xll
-/_ConvertModelWizard_Files
-/Kinetic_Report.htm
-/Log_OpenAccessUpdateReferences.xml
-/KineticExcelUDFAddIn/bin/Release/KineticExcelUDFAddIn-AddIn-packed.xll
-/KineticExcelUDFAddIn/bin/Release/KineticExcelUDFAddIn-AddIn64-packed.xll
-/.vs/config/applicationhost.config
-*.licx
-/__SkipCodeRush
-/kWebViewer/App_Data
-/kWebViewer/Content/components/ace-builds/demo
-/KEAIHelp/~KEAIHelp.dat
-/.vs
